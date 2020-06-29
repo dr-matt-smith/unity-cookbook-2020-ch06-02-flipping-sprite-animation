@@ -1,1 +1,1 @@
-# https-github.com-dr-matt-smith-unity-cookbook-2020-ch06-02-flipping-sprite-animation
+# unity-cookbook-2020-ch06-02-flipping-sprite-animation
