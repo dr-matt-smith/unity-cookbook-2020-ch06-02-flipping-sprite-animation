@@ -9,6 +9,7 @@ public class InputMapper : MonoBehaviour
 	}
 	
 	void Update() {
-		animator.SetFloat("axisHorizontal", Input.GetAxisRaw("Horizontal"));
+		float x = Input.GetAxisRaw("Horizontal");
+		animator.SetFloat("axisHorizontal", x);
 	}
 }
